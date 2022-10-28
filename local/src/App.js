@@ -1,6 +1,5 @@
-import React from 'react'
-import RestBasic from './rest-basic'
+import DBNav from './db-nav'
 
 export default function App() {
-  return <RestBasic/>
+  return <DBNav/>
 }
